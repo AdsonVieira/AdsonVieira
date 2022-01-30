@@ -10,5 +10,3 @@ Desenvolvedor e amante da tecnologia e super interessado por empreendedorismo. C
 # Estatísticas do Github
 
 https://github-readme-stats.vercel.app/api?username=AdsonVieira
-https://github-readme-stats.vercel.app/api/top-langs/?username=AdsonVieira
-
