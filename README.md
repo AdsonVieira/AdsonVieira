@@ -9,4 +9,4 @@ Desenvolvedor e amante da tecnologia e super interessado por empreendedorismo. C
 
 # Estatísticas do Github
 
-https://github-readme-stats.vercel.app/api?username=AdsonVieira
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=AdsonVieira)](https://github.com/anuraghazra/github-readme-stats)
