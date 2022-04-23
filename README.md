@@ -7,6 +7,7 @@
 
 - 🌱 At the moment I'm focused on the apprenticeship of **Groovy**, **Grails** and **Kotlin**, but I already worked with **PHP** and **Laravel**.
 
+- 🎸 Do you want to play acoustic guitar or guitar with me? Contact me on [discord](https://discordapp.com/users/697796490583736431).
 <h5 align="left">Social:</h5>
 
 Linkedin: https://linkedin.com/in/adson-vieira-283b92113
