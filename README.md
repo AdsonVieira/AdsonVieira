@@ -1,11 +1,10 @@
 <h4 align="left">Hey, I'm Adson Vieira!</h4>
-<h5 align="left">Developer and technology lover and super interested in entrepreneurship. Curiosity, thirst for apprenticeship and innovation are the things that move me and that's why I'm open for the new challenges.</h5>
+<h5 align="left">As a developer and technology enthusiast, I am highly interested in entrepreneurship. Curiosity, innovation, and an eagerness to learn are my driving forces, and I am always open to new challenges.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsonvieira&label=Profile%20views&color=0e75b6&style=flat" alt="adsonvieira" /> </p>
 
-- 🌱 At the moment I'm focused on the apprenticeship of **Software Architecture**.
+- 🌱 Currently, I'm focused on learning **Software Architecture**.
 
-- 🎸 Do you want to play acoustic guitar or guitar with me? Contact me on [discord](https://discordapp.com/users/697796490583736431).
 <h5 align="left">Social:</h5>
 
 Linkedin: https://linkedin.com/in/adson-vieira-283b92113
